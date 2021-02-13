@@ -13,4 +13,5 @@ public class CristianoRonaldo2 {
     String personalidad;
     int goles = 750;
     int asistencias = 268;
+    int regates = 1293;
 }
